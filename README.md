@@ -59,15 +59,15 @@ The chatbot retrieves relevant information from documents and generates accurate
 ## 📸 Screenshots
 
 ### 🔹 Flowise Workflow
-![Workflow Configuration] <img width="1885" height="868" alt="Flowise" src="https://github.com/user-attachments/assets/d0b9b80d-d8c2-4776-affd-c797e9ac242f" />
+[Workflow Configuration] <img width="1885" height="868" alt="Flowise" src="https://github.com/user-attachments/assets/d0b9b80d-d8c2-4776-affd-c797e9ac242f" />
 
 
 ### 🔹 Chatbot Interaction
-![Chat Output 1]<img width="1200" height="858" alt="Output1" src="https://github.com/user-attachments/assets/e62f33b8-44fc-4b29-b07f-d7a78fae7033" />
+[Chat Output 1]<img width="1200" height="858" alt="Output1" src="https://github.com/user-attachments/assets/e62f33b8-44fc-4b29-b07f-d7a78fae7033" />
 
-![Chat Output 2]<img width="1156" height="841" alt="Output2" src="https://github.com/user-attachments/assets/37f79460-19c0-460f-b73f-af21a60e0579" />
+[Chat Output 2]<img width="1156" height="841" alt="Output2" src="https://github.com/user-attachments/assets/37f79460-19c0-460f-b73f-af21a60e0579" />
 
-![Chat Output 3]<img width="1164" height="840" alt="Output3" src="https://github.com/user-attachments/assets/9ce31764-fd48-4bea-8289-52568d4146aa" />
+[Chat Output 3]<img width="1164" height="840" alt="Output3" src="https://github.com/user-attachments/assets/9ce31764-fd48-4bea-8289-52568d4146aa" />
 
 ---
 
