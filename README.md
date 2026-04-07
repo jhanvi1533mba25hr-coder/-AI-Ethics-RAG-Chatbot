@@ -1,20 +1,20 @@
-# AI Ethics RAG Chatbot 🤖
+# AI Ethics RAG Chatbot 
 
-## 📌 Project Overview
+##  Project Overview
 This project is an AI-powered Retrieval-Augmented Generation (RAG) chatbot built using Flowise. It is designed to answer questions based on documents related to Artificial Intelligence Ethics.
 
 The chatbot retrieves relevant information from documents and generates accurate, context-based responses.
 
 ---
 
-## 🎯 Objective
+##  Objective
 - To apply AI in real-world problem solving
 - To improve document-based question answering
 - To ensure ethical and responsible AI responses
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - Flowise AI
 - Mistral AI (LLM)
 - Google Gemini Embeddings
@@ -23,7 +23,7 @@ The chatbot retrieves relevant information from documents and generates accurate
 
 ---
 
-## 🔄 Workflow Explanation
+##  Workflow Explanation
 
 1. **File Loader**
    - Loads the AI ethics document
@@ -48,7 +48,7 @@ The chatbot retrieves relevant information from documents and generates accurate
 
 ---
 
-## 💡 Key Features
+##  Key Features
 - Context-aware responses
 - Ethical AI-focused knowledge
 - Conversational memory
@@ -56,7 +56,7 @@ The chatbot retrieves relevant information from documents and generates accurate
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 Flowise Workflow
 [Workflow Configuration] <img width="1885" height="868" alt="Flowise" src="https://github.com/user-attachments/assets/d0b9b80d-d8c2-4776-affd-c797e9ac242f" />
@@ -73,14 +73,14 @@ The chatbot retrieves relevant information from documents and generates accurate
 
 ---
 
-## 📂 Project Files
+##  Project Files
 - Chatflow JSON (Flowise)
 - AI Ethics document
 - Screenshots
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open Flowise
 2. Import the JSON file from `/chatflow`
@@ -92,17 +92,17 @@ The chatbot retrieves relevant information from documents and generates accurate
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 - Add database (Pinecone / FAISS)
 - Deploy chatbot on web
 - Add multi-document support
 
 ---
 
-## 👩‍💻 Author
+##  Author
 Jhanvi Sabharwal
 
 ---
 
-## 📜 License
+##  License
 This project is for educational purposes.
