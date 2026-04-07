@@ -83,7 +83,7 @@ The chatbot retrieves relevant information from documents and generates accurate
 ##  How to Run
 
 1. Open Flowise
-2. Import the JSON file from `/chatflow`
+2. Import the JSON file from chatflow
 3. Add API keys:
    - Mistral API
    - Google Gemini API
